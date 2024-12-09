@@ -1,0 +1,31 @@
+background = "#edf5e2ff"
+blend = true
+blocks_overlap = 0.0
+blocks_r = 4
+color = "#cba6f7ff"
+command = "i3status-rs"
+font = "Iosevka SS17 13"
+height = 18
+hide_inactive_tags = true
+invert_touchpad_scrolling = true
+margin_bottom = 3
+margin_left = 4
+margin_right = 4
+margin_top = 4
+position = "top"
+#separator = "#9a8a62ff"
+separator_width = 0
+show_layout_name = false
+tag_bg = "#edf5e2ff"
+tag_fg = "#000000ff"
+tag_focused_bg = "#b0b7aaff"
+tag_focused_fg = "#000000ff"
+tag_inactive_bg = "#e8eddcff"
+tag_inactive_fg = "#000000ff"
+tag_urgent_bg = "#d00000ff"
+tag_urgent_fg = "#000000ff"
+tags_padding = 15.0
+tags_r = 6
+
+[wm.river]
+max_tag = 9
